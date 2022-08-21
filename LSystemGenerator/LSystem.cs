@@ -20,9 +20,9 @@ namespace LSystemGenerator
         }
         public static StringBuilder ApplyRules(StringBuilder sb, Dictionary<string, string> rules)
         {
-            var newSB = new StringBuilder();
-            for (int i = 0; i < sb.Length; i++) newSB.Append(rules[sb[i].ToString()]);
-            return newSB;
+            var sbLength = sb.Length;
+            for (int i = 0; i < sbLength; i++) sb.Append(rules[sb[i].ToString()]);
+            return sb.Remove(0, sbLength);
         }
     }
 }
