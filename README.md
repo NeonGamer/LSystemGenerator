@@ -1,3 +1,7 @@
 # LSystemGenerator
 A Library for generating instructions easily from a list of given rules.
-> **_NOTE:_** 
+```
+Example: Dragons Curve:
+
+
+```
