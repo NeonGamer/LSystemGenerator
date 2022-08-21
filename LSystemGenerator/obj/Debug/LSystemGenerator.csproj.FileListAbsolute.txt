@@ -1,0 +1,6 @@
+C:\Users\aiden\source\repos\LSystemGenerator\LSystemGenerator\bin\Debug\LSystemGenerator.dll
+C:\Users\aiden\source\repos\LSystemGenerator\LSystemGenerator\bin\Debug\LSystemGenerator.pdb
+C:\Users\aiden\source\repos\LSystemGenerator\LSystemGenerator\obj\Debug\LSystemGenerator.csproj.AssemblyReference.cache
+C:\Users\aiden\source\repos\LSystemGenerator\LSystemGenerator\obj\Debug\LSystemGenerator.csproj.CoreCompileInputs.cache
+C:\Users\aiden\source\repos\LSystemGenerator\LSystemGenerator\obj\Debug\LSystemGenerator.dll
+C:\Users\aiden\source\repos\LSystemGenerator\LSystemGenerator\obj\Debug\LSystemGenerator.pdb
